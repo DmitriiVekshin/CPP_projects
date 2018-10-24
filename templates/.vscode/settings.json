@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "*.tcc": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
